@@ -1,0 +1,8 @@
+<fragment xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/website_list"
+    android:name="com.thehackerati.rssreader.FeedListFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.thehackerati.rssreader.FeedListActivity"
+    tools:layout="@android:layout/list_content" />
